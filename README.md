@@ -1,5 +1,5 @@
 # MACHINIST X99Z V102
-# C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020
+C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020
 # Builder: iEngineer
 Manufacturer Bug Fixed, Latest updates, set FSB 100MHz.
 Update:
