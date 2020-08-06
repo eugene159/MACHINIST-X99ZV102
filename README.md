@@ -9,13 +9,15 @@
 1) ME Firmware (last serviceable) version 9.1.37.1002 (1,5MiB).
 2) EFI/OROM for RSTe SATA(Port 0-3) firmware up to 5.5.5.1005 ((latest) Full I/O speed).
 3) CPU microcode (latest).
-Changes:
+
+  Changes:
 1) Enable DUAL/QUAD SPI for Winbond 25Q128FVSG & 25Q128JVSQ.
 2) Changes Master Acces from Debug/Manufacturing to Production.
 3) Increased BBBS up to 1MiB.
 4) Hidden BIOS items that do not control.
-How to update Firmware:
-1) Burn the Firmware to programmer device.
+
+  How to update Firmware:
+1) Burn the Firmware to programmer device. (e.g. EZP-2019)
 2) Clear CMOS.
 3) After restart go to the BIOS setting & use 'Restore Default' / 'F10' / 'Enter'
 4) Configure RAM timings & enjoy.
