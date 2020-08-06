@@ -1,6 +1,6 @@
 # MACHINIST X99Z V102
 C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020
-# Builder: iEngineer
+Builder: iEngineer
 Manufacturer Bug Fixed, Latest updates, set FSB 100MHz.
 Update:
 1) ME Firmware (last serviceable) version 9.1.37.1002 (1,5MiB).
