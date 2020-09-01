@@ -23,3 +23,6 @@
 4) Configure RAM timings & enjoy.
   
 ![C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020](CPU.png)
+
+Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
+![Belarus Edition](BELARUS-EDITION.png)
