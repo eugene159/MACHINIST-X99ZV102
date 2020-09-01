@@ -26,3 +26,8 @@
 
 Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
 ![Belarus Edition](BELARUS-EDITION.png)
+
+How to install:
+a) Open BIOS file in UEFITool
+b) Find (Ctrl+F) GUID 7BB28B99-61BB-11D5-9A5D-0090273FC14D then select (Ctrl+R) Replace as is (choise new downloaded  7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS file).
+c) File (Ctrl+S) Save image file.
