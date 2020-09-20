@@ -22,7 +22,9 @@
 3) After restart go to the BIOS setting & use 'Restore Default' / 'F10' / 'Enter'
 4) Configure RAM timings & enjoy.
   
+![Main C612RD23 BIOS](MAIN.png)
 ![C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020](CPU.png)
+![UEFI Shell 2.40 C612RD23 BIOS](SHELL.png)
 
 Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
 ![Belarus Edition](BELARUS-EDITION.png)
@@ -31,3 +33,6 @@ Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
 1) Open BIOS file in UEFITool
 2) Find (Ctrl+F) GUID 7BB28B99-61BB-11D5-9A5D-0090273FC14D then select (Ctrl+R) Replace as is (choise new downloaded  7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS file).
 3) File (Ctrl+S) Save image file.
+
+tRFC Table
+![tRFC Table](tRFC-Table.png)
