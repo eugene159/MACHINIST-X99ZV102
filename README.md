@@ -1,4 +1,19 @@
 # MACHINIST X99Z V102
+
+<div align="left">
+    <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases">
+        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/MACHINIST-X99ZV102/total.svg" alt="downloads"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases/latest">
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/MACHINIST-X99ZV102.svg" alt="latest version"/>
+    </a>
+    <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/blob/master/License">
+        <img src="https://img.shields.io/github/license/BIOS-iEngineer/MACHINIST-X99ZV102.svg" alt="license"/>
+    </a>
+</div>
+
+* ##### Release C612RD25R 09/25/2020
+
 ## C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020
   
   Builder: iEngineer
