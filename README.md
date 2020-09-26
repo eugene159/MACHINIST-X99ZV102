@@ -11,7 +11,6 @@
         <img src="https://img.shields.io/github/license/BIOS-iEngineer/MACHINIST-X99ZV102.svg?style=for-the-badge&logo=appveyor" alt="license"/>
     </a>
 * ##### First stable version C612RD25 07/31/2020
-
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/raw/0bc383519511f6c650b7bde02f85b662c3f0861d/C612RD23.BIN">
         <img src="https://img.shields.io/github/release/BIOS-iEngineer/MACHINIST-X99ZV102.svg?style=for-the-badge&logo=appveyor" alt="latest version"/>
     </a>
