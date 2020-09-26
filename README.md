@@ -2,17 +2,17 @@
 * #### Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99Z-V102 (X99M-CE5) / XLZ X99Z-V102
 * ##### Release C612RD25R 09/25/2020
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases/latest">
-        <img src="https://img.shields.io/github/release/BIOS-iEngineer/MACHINIST-X99ZV102.svg?style=for-the-badge&logo=appveyor" alt="latest version"/>
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/MACHINIST-X99ZV102.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
     </a>
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases">
-        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/MACHINIST-X99ZV102/total.svg?style=for-the-badge&logo=appveyor" alt="downloads"/>
+        <img src="https://img.shields.io/github/downloads/BIOS-iEngineer/MACHINIST-X99ZV102/total.svg?color=silver&style=for-the-badge&logo=appveyor" alt="downloads"/>
     </a>
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/blob/master/License">
         <img src="https://img.shields.io/github/license/BIOS-iEngineer/MACHINIST-X99ZV102.svg?style=for-the-badge&logo=appveyor" alt="license"/>
     </a>
 * ##### First stable version C612RD25 07/31/2020
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/raw/0bc383519511f6c650b7bde02f85b662c3f0861d/C612RD23.BIN">
-        <img src="https://img.shields.io/github/release/BIOS-iEngineer/MACHINIST-X99ZV102.svg?style=for-the-badge&logo=appveyor" alt="latest version"/>
+        <img src="https://img.shields.io/github/release/BIOS-iEngineer/MACHINIST-X99ZV102.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
     </a>
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/blob/master/License">
         <img src="https://img.shields.io/github/license/BIOS-iEngineer/MACHINIST-X99ZV102.svg?style=for-the-badge&logo=appveyor" alt="license"/>
