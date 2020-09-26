@@ -1,4 +1,5 @@
 # MACHINIST X99Z V102
+* ## Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99Z-V102 / XLZ X99Z-V102
 
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases">
@@ -15,6 +16,8 @@
 * ##### Release C612RD25R 09/25/2020
 
 ## C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020
+  
+![X99Z-V102 Motherboard](Motherboard.PNG)
   
   Builder: iEngineer
   
