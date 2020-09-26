@@ -1,5 +1,5 @@
 # MACHINIST X99Z V102
-* ## Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99Z-V102 / XLZ X99Z-V102
+* ### Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99Z-V102 / XLZ X99Z-V102
 
 <div align="left">
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases">
