@@ -1,5 +1,5 @@
 # MACHINIST X99Z V102
-* #### Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99Z-V102 (X99M-CE5) / XLZ X99Z-V102
+* #### Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99M-CE5, X99-PE7(X99 V1.2) / XLZ X99Z-V102
 * ##### Release C612RD25R 09/25/2020
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases/latest">
         <img src="https://img.shields.io/github/release/BIOS-iEngineer/MACHINIST-X99ZV102.svg?color=silver&style=for-the-badge&logo=appveyor" alt="latest version"/>
