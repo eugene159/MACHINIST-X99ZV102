@@ -1,5 +1,5 @@
 # MACHINIST X99Z V102
-### <a href="https://machinist.de.aliexpress.com/store/3666028">Sponsored by (AliExpress) MACHINIST Store</a>
+### <a href="https://machinist.de.aliexpress.com/store/3666028" target="_blank" rel="nofollow noopener">Sponsored by (AliExpress) MACHINIST Store</a>
 * #### Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99M-CE5, X99-PE7(X99 V1.2) / XLZ X99Z-V102
 * ##### Release C612RD25R 09/25/2020
     <a href="https://github.com/BIOS-iEngineer/MACHINIST-X99ZV102/releases/latest">
