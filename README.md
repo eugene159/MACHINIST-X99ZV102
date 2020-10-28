@@ -1,4 +1,12 @@
 # MACHINIST X99Z V102
+
+<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
+  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/PayPal.png" alt="Donate with PayPal" />
+</a>
+<a href="https://www.paypal.com/donate?hosted_button_id=ASF2H5CU95MUQ">
+  <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/QR-PayPal.png" alt="Donate with PayPal" />
+</a>
+
 ### <a target="_blank" rel="noopener noreferrer" href="https://machinist.de.aliexpress.com/store/3666028">Sponsored by (AliExpress) MACHINIST Store</a>
 * #### Running X99Z-V102 / Kllisre X99Z-V102 / ALZENIT X99M-CE5, X99-PE7(X99 V1.2) / XLZ X99Z-V102
 * ##### Release C612RD25R 09/25/2020
