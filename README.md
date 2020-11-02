@@ -30,6 +30,12 @@
 ## C612RD23 BIOS for MACHINIST X99Z V102 Motherboard
   
 ![X99Z-V102 Motherboard](Motherboard.PNG)
+
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-001.png" alt="Machinist X99Z C612RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-002.png" alt="Machinist X99Z C612RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-M002.png" alt="Machinist X99Z C612RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-003.png" alt="Machinist X99Z C612RD24 BIOS" />
+<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-004.png" alt="Machinist X99Z C612RD24 BIOS" />
   
   Builder: iEngineer
   
@@ -51,10 +57,6 @@
 2) Clear CMOS.
 3) After restart go to the BIOS setting & use 'Restore Default' / 'F10' / 'Enter'
 4) Configure RAM timings & enjoy.
-  
-![Main C612RD23 BIOS](MAIN.png)
-![C612RD23 BIOS for MACHINIST X99Z V102 Motherboard 07/31/2020](CPU.png)
-![UEFI Shell 2.40 C612RD23 BIOS](SHELL.png)
 
 Addon: 7BB28B99-61BB-11D5-9A5D-0090273FC14D.FFS
 ![Belarus Edition](BELARUS-EDITION.png)
