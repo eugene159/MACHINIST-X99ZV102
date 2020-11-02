@@ -26,7 +26,6 @@
 
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-001.png" alt="Machinist X99Z C612RD24 BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-002.png" alt="Machinist X99Z C612RD24 BIOS" />
-<img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-M002.png" alt="Machinist X99Z C612RD24 BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-003.png" alt="Machinist X99Z C612RD24 BIOS" />
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/C612RD24-004.png" alt="Machinist X99Z C612RD24 BIOS" />
   
